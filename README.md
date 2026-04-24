@@ -44,10 +44,10 @@ ImageJ macro for automated colony formation assay analysis for stereomicroscopy
 This project is licensed under the **Apache License 2.0** - see the LICENSE file for details.
 
 ## Author
-**Dongjun Han, Ph.D.**
-Senior Scientist | Disease Modeling Team Leader
-Rznomics Inc., South Korea.
+**Dongjun Han, Ph.D.**<br>
+Senior Scientist | Disease Modeling Team Leader<br>
+Rznomics Inc., South Korea.<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dongjun-han-19a17889/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dongjun-han-19a17889/)<br>
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail)](mailto:djhan0110@gmail.com)
 

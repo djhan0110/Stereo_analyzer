@@ -48,6 +48,6 @@ This project is licensed under the **Apache License 2.0** - see the LICENSE file
 Senior Scientist | Disease Modeling Team Leader
 Rznomics Inc., South Korea.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dongjun-han-19a17889/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dongjun-han-19a17889/)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail)](mailto:djhan0110@gmail.com)
 
